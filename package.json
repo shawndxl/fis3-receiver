@@ -1,0 +1,14 @@
+{
+  "name": "fis3-receiver",
+  "private": true,
+  "version": "0.0.0",
+  "description": "FIS3 static receiver",
+  "main": "server.js",
+  "dependencies": {
+    "exec": "^0.2.1",
+    "formidable": "^1.0.17",
+    "minimatch": "^3.0.0",
+    "mkdirp": "^0.5.1",
+    "rtconfig": "^0.1.6"
+  }
+}

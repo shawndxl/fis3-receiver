@@ -1,0 +1,10 @@
+{
+  "apps": [{
+    "name": "fis-receiver-8999",
+    "script": "app.js",
+    "args": ["8999"],
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }]
+}
